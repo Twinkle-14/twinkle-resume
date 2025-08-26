@@ -1,73 +1,65 @@
-# Welcome to your Lovable project
+Twinkle Surti – Portfolio
 
-## Project info
+Welcome to my GitHub profile! I’m a web developer and problem solver based in Mumbai, India. Here you can find my skills, projects, and achievements.
 
-**URL**: https://lovable.dev/projects/87e73500-4e64-4a9f-a92f-7a58908585d0
+📧 Contact
 
-## How can I edit this code?
+Email: twinklesurti3014@gmail.com
 
-There are several ways of editing your application.
+LinkedIn: Twinkle Surti
 
-**Use Lovable**
+GitHub: Twinkle-14
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/87e73500-4e64-4a9f-a92f-7a58908585d0) and start prompting.
+LeetCode: Twinkle__30
 
-Changes made via Lovable will be committed automatically to this repo.
+💼 Professional Summary
 
-**Use your preferred IDE**
+Aspiring web developer & problem solver
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Hands-on with HTML, CSS, JavaScript, and Git
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Solved 300+ DSA problems
 
-Follow these steps:
+Passionate about building interactive projects and modern web apps
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🛠 Skills
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Web Development: HTML, CSS, JavaScript
 
-# Step 3: Install the necessary dependencies.
-npm i
+Version Control: Git & GitHub
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Problem Solving: Data Structures & Algorithms (300+ problems solved)
 
-**Edit a file directly in GitHub**
+🎓 Education
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Jnan Vikas Mandal Mehta College – B.Sc (2nd Year) – GPA 7.55 (1st sem), 8.73 (2nd sem)
 
-**Use GitHub Codespaces**
+KET's V G Vaze College – 12th – 57.50%
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Vidya Prabodhini English School – 10th – 90.20%
 
-## What technologies are used for this project?
+📁 Projects
+Coding Game
 
-This project is built with:
+Interactive web-based coding game
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Built with HTML, CSS, and JavaScript
 
-## How can I deploy this project?
+Travel Booking App
 
-Simply open [Lovable](https://lovable.dev/projects/87e73500-4e64-4a9f-a92f-7a58908585d0) and click on Share -> Publish.
+Web app to search & book travel packages
 
-## Can I connect a custom domain to my Lovable project?
+Responsive design with dynamic functionality
 
-Yes, you can!
+🏆 Certifications & Achievements
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Deloitte Virtual Internship Certificate
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Solved 300+ DSA problems on LeetCode
+
+Active contributor on GitHub
+
+🌐 Live Resume Preview
+
+Check out my Lovable-generated resume here:
+Live Preview https://preview--twinkle-bullets-lovable.lovable.app/
